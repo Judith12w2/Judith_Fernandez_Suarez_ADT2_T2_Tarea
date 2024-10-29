@@ -1,0 +1,21 @@
+[ {
+  "dni" : "12345678A",
+  "nombre" : "James Bond",
+  "matriculaVehiculo" : "0007-BND",
+  "añoContratado" : 2006
+}, {
+  "dni" : "87654321B",
+  "nombre" : "John Doe",
+  "matriculaVehiculo" : "Volkswagen",
+  "añoContratado" : 2018
+}, {
+  "dni" : "23456789C",
+  "nombre" : "Walter Smith",
+  "matriculaVehiculo" : null,
+  "añoContratado" : 2019
+}, {
+  "dni" : "34567890D",
+  "nombre" : "Kathy Spencer",
+  "matriculaVehiculo" : null,
+  "añoContratado" : 2022
+} ]
