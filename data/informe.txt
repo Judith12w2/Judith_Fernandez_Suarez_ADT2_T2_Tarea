@@ -1,0 +1,32 @@
+Informe de empleados con vehículos asignados
+===========================================
+Empleado:
+  DNI: 12345678A
+  Nombre: James Bond
+  Año Contratado: 2006
+  Vehículo:
+    Marca: Volvo
+    Modelo: S50
+    Matrícula: 0007-BND
+    Año: 2019
+===========================================
+Empleado:
+  DNI: 87654321B
+  Nombre: John Doe
+  Año Contratado: 2018
+  Vehículo:
+    Marca: Golf
+    Modelo: 6789-ADT
+    Matrícula: Volkswagen
+    Año: 2024
+===========================================
+Empleado:
+  DNI: 23456789C
+  Nombre: Walter Smith
+  Año Contratado: 2019
+===========================================
+Empleado:
+  DNI: 34567890D
+  Nombre: Kathy Spencer
+  Año Contratado: 2022
+===========================================
